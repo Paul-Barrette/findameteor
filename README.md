@@ -5,4 +5,4 @@ First install pipenv
 Then run the following commands
 ''
 pipenv install
-pipenv run "python3 findameteor.py"
+pipenv run "python3 meteor/findameteor.py"
